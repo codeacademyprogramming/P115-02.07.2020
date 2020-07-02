@@ -22,3 +22,5 @@
     - If the book is returned after the expected return day (between 10 and 30 days) fine: 1$ per day
     - If the book is not returned after 30 days, cancel membership. fine: 1.5$ per day
 5. Checking for Palindrome Strings or Numbers in C#
+
+Tapşırıqlar haqqında ekran şəkilləri screenshoots folderindədir.
